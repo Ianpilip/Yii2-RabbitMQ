@@ -10,4 +10,4 @@ Testing:
 1. Run migrations
 1. Open in the browser the main page, the ajax query will be sent (which is in the web/js/user.js)
 2. You will see either message ID from RabbitMQ or error on the page
-3. An instruction to listen to messages from RabbitMQ: yii queue/listen --verbose=1
+3. An instruction to listen to messages for RabbitMQ: yii queue/listen --verbose=1
